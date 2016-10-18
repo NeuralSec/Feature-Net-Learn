@@ -13,6 +13,6 @@ Please download the example training and test datasets from:
 https://www.dropbox.com/sh/s6vykvx71ivxb4w/AADncCiQkAeTsE4dkQpG6Jw_a?dl=0
 
 Required Python libraries:
-Tensorflow
-Numpy
-Scikit Learn
+Tensorflow,
+Numpy,
+Scikit Learn.
