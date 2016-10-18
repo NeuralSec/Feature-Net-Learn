@@ -1,0 +1,2 @@
+model_checkpoint_path: "FNI_tuning.ckpt"
+all_model_checkpoint_paths: "FNI_tuning.ckpt"
