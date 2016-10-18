@@ -5,5 +5,5 @@ TrainingFeatureNetInf.py ---------------------------------------------------- Mo
 FNI.ckpt/FNI.ckpt.meta/checkpoint ------------------------------------------- Save files of the trained model.
 FeatureNetInf.py ------------------------------------------------------------ Loading DNN model for prediction task.
 
-Please download example training and test datasets from:
+Please download the example training and test datasets from:
 https://www.dropbox.com/sh/s6vykvx71ivxb4w/AADncCiQkAeTsE4dkQpG6Jw_a?dl=0
