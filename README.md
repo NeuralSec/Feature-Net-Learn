@@ -1,11 +1,11 @@
 # Feature-Net-Learn
 The python code for a perceptron neural network which aims to infer hidden network. A paper to be submitted is included. Files are listed as follows:
 
-TrainingFeatureNetInf.py ---------------------------------------------------- Modifying and training DNN model.
+TrainingFeatureNetInf.py ------------------------- Modifying and training DNN model.
 
-FNI.ckpt/FNI.ckpt.meta/checkpoint ------------------------------------------- Save files of the trained model.
+FNI.ckpt/FNI.ckpt.meta/checkpoint ---------------- Save files of the trained model.
 
-FeatureNetInf.py ------------------------------------------------------------ Loading DNN model for prediction task.
+FeatureNetInf.py --------------------------------- Loading DNN model for prediction task.
 
 Who Spread to Whom Inferring Online Social Networks with User Features ------ Paper draft to be submitted.
 
