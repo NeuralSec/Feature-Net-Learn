@@ -1,5 +1,5 @@
 # Feature-Net-Learn
-The code of our IEEE ICC paper ""Who Spread to Whom? Inferring Online Social Networks with User Features" In 2018 IEEE International Conference on Communications(ICC) (2018)".
+The code of our paper "Who Spread to Whom? Inferring Online Social Networks with User Features" In 2018 IEEE International Conference on Communications(ICC) (2018).
 
 The python code for a Multilayer perceptron neural network which aims to infer hidden network. The number of layers and perceptrons can be adjusted. A paper to be submitted is included. Files are listed as follows:
 
